@@ -1,0 +1,10 @@
+<Texture_List>
+	<Texture>
+		<ID>PandaMat</ID>
+		<Path>Assets\textures\Scene3DSound\PandaMat.png</Path>
+	</Texture>
+	<Texture>
+		<ID>MainTexture</ID>
+		<Path>Assets\textures\Scene3DSound\MainTexture.png</Path>
+	</Texture>
+</Texture_List>
